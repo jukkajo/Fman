@@ -1,0 +1,6 @@
+../Boreal/Ruokolahti_annotations/imgs/ruokolahti_DJI_0081_frame61.jpg
+../Boreal/Ruokolahti_annotations/imgs/ruokolahti_DJI_0088_frame260.jpg
+../Boreal/Ruokolahti_annotations/imgs/ruokolahti_DJI_0087_frame60.jpg
+../Boreal/Ruokolahti_annotations/imgs/ruokolahti_DJI_0088_frame145.jpg
+../Boreal/Ruokolahti_annotations/imgs/ruokolahti_DJI_0088_frame133.jpg
+../Boreal/Ruokolahti_annotations/imgs/ruokolahti_DJI_0088_frame150.jpg
